@@ -1,6 +1,6 @@
 # Reservoir-Computing
 
-I'm using Echo State Network to predict the Lorenz System. Here's my current result:
+Using Reservoir Computing and Next Generation Reservoir Computing to predict the Lorenz System.
 
 ![Output.png](./Output.png)
 
